@@ -1,0 +1,5 @@
+{
+  "name": "Absence_Manager",
+  "description": "Une application de gestion des absences pour lycée qualifiant, facilitant la communication entre les enseignants et le surveillant général.",
+  "requestFramePermissions": []
+}
